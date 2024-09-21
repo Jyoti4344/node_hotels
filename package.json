@@ -1,0 +1,21 @@
+{
+  "name": "seekhoo",
+  "version": "1.0.0",
+  "description": "nodejs tutorial practice",
+  "main": "index.js",
+  "dependencies": {
+    "ansi-regex": "^4.1.1",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^8.5.4",
+    "nodemon": "^3.1.4",
+    "prompt-sync": "^4.2.0",
+    "strip-ansi": "^5.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jyoti Goel",
+  "license": "ISC"
+}
